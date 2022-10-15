@@ -18,3 +18,23 @@ Employee :- http://localhost:8000/api/v1/employees/
 
 
 ![image](https://user-images.githubusercontent.com/76628857/195977790-542d4f2f-97b5-49d1-bc5c-7bbeb6983d1e.png)
+
+
+
+and second i have groups project with group members makes the auth api as well as prenurship api also.
+
+2 - Auth api :- 
+
+https://github.com/BACKEND-TEAMS/authapi
+![image](https://user-images.githubusercontent.com/76628857/195978102-0d80659d-a922-4ccd-9c6d-4230b9b72afb.png)
+
+
+
+3 - Next is preneruship api :- 
+
+https://github.com/BACKEND-TEAMS/Preneurship
+
+![image](https://user-images.githubusercontent.com/76628857/195978158-1384e08a-c854-4368-bb0e-870b24dddb0f.png)
+
+
+
